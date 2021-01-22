@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jeswanth:sumathigovardhan_95@devmeet.vybhq.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jeswanthv:jeswanth123@devmeet.vybhq.mongodb.net/Devmeet?retryWrites=true&w=majority",
+  "jwtSecret": "mysecretkey"
 }
