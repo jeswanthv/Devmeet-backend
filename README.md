@@ -4,7 +4,7 @@
 <p align='left'>
   It is a social media platform where devlopers can share their ideas through posts.
 </p>
----
+<hr>
 <br>
 <h3>Technologies used⚙👨‍💻</h3>
 <ul>
@@ -13,6 +13,7 @@
 <li> Express </li>
 <li> MongoDb </li>
 </ul>
----
+<hr>
 <br>
-Live demo @ [devmeet](https://devmeet10.herokuapp.com/)
+Live demo @ https://devmeet10.herokuapp.com/
+<p>For any queries contact me😉</p>
