@@ -12,6 +12,7 @@
 <li> nodeJs </li>
 <li> Express </li>
 <li> MongoDb </li>
+  <li> Hosting site:Heroku </li>
 </ul>
 <hr>
 <br>
