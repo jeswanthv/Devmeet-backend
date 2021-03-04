@@ -1,4 +1,4 @@
-# Devmeet-backend
+# Devmeet
 <h1 align='center'>Social website for all developers🌐</h1>
 <h3>About the site🧐</h3>
 <p align='left'>
